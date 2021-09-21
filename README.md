@@ -2,7 +2,7 @@
 
 🤓 Mathematician 
 
-📚 Learning Python
+📚 Learning Python & C++
 
 🌱 Looking for my first job
 
