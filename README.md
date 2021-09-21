@@ -1,4 +1,6 @@
-### 👋 I'm Pablo
+### 👋 Buenas! 
+
+🧉 Matecito?
 
 🤓 Mathematician 
 
