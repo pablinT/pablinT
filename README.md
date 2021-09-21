@@ -1,12 +1,10 @@
-### 👋 Buenas! 
-
-🧉 Matecito?
+### Hi! I'm Pablo 🧉 
 
 🤓 Mathematician 
 
-👶 Learning Python & C++
+📚 Learning Python
 
-
+🌱 Looking for my first job
 
 
 
