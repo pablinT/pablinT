@@ -5,9 +5,14 @@
 🍴 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Follow_Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/
-pablocalderon1705/)](https://www.linkedin.com/in/
-pablocalderon1705/) [![Gmail Badge](https://img.shields.io/badge/-Contact_Me-d44638?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:
+<img src="{BadgeURLHere}" /> 
+
+
+
+![Linkedin Badge](https://img.shields.io/badge/-Follow_Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/
+pablocalderon1705/)]
+
+[![Gmail Badge](https://img.shields.io/badge/-Contact_Me-d44638?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:
 pablocalderon1705@gmail)](mailto:pablocalderon1705@gmail.com)
 
 <!--
