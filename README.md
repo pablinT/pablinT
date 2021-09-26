@@ -2,6 +2,8 @@
 
 🤓 Mathematician 
 
+📊 Data scientist in progress
+
 📚 Learning Python & C++
 
 🌱 Looking for my first job
