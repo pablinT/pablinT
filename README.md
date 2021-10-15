@@ -4,7 +4,7 @@
 
 📊 Data scientist in progress
 
-📚 Learning Python & C++
+📚 Learning Python 
 
 🌱 Looking for my first job
 
