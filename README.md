@@ -1,6 +1,7 @@
 ### Hi! I'm Pablo 🧉 
 
 🤓 Mathematician 
+📖 http://sedici.unlp.edu.ar/handle/10915/132085
 
 📊 Data scientist in progress
 
