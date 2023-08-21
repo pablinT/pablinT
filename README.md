@@ -4,7 +4,9 @@
 
 📊 Data scientist in progress
 
-📚 Learning Python & Machine Learning
+🐍 Python 
+💻 Machine Learning Models
+👁️ Computer Vision
 
 
 
